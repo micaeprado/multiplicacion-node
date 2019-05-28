@@ -14,5 +14,13 @@
   },
   "devDependencies": {
     "nodemon": "^1.19.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micaeprado/multiplicacion-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/micaeprado/multiplicacion-node/issues"
+  },
+  "homepage": "https://github.com/micaeprado/multiplicacion-node#readme"
 }
